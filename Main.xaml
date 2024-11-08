@@ -5,6 +5,36 @@
     <x:Property Name="SolutionPackageName" Type="InArgument(x:String)" />
     <x:Property Name="SolutionPackageVersion" Type="InArgument(x:String)" />
     <x:Property Name="SolutionRootFolder" Type="InArgument(x:String)" />
+    <x:Property Name="argument1" Type="InArgument(x:String)" />
+    <x:Property Name="argument2" Type="InArgument(x:String)" />
+    <x:Property Name="argument3" Type="InArgument(x:String)" />
+    <x:Property Name="argument4" Type="InArgument(x:String)" />
+    <x:Property Name="argument5" Type="InArgument(x:String)" />
+    <x:Property Name="argument6" Type="InArgument(x:String)" />
+    <x:Property Name="argument7" Type="InArgument(x:String)" />
+    <x:Property Name="argument8" Type="InArgument(x:String)" />
+    <x:Property Name="argument9" Type="InArgument(x:String)" />
+    <x:Property Name="argument10" Type="InArgument(x:String)" />
+    <x:Property Name="argument11" Type="InArgument(x:String)" />
+    <x:Property Name="argument12" Type="InArgument(x:String)" />
+    <x:Property Name="argument13" Type="InArgument(x:String)" />
+    <x:Property Name="argument14" Type="InArgument(x:String)" />
+    <x:Property Name="argument15" Type="InArgument(x:String)" />
+    <x:Property Name="argument16" Type="InArgument(x:String)" />
+    <x:Property Name="argument17" Type="InArgument(x:String)" />
+    <x:Property Name="argument18" Type="InArgument(x:String)" />
+    <x:Property Name="argument19" Type="InArgument(x:String)" />
+    <x:Property Name="argument20" Type="InArgument(x:String)" />
+    <x:Property Name="argument21" Type="InArgument(x:String)" />
+    <x:Property Name="argument22" Type="InArgument(x:String)" />
+    <x:Property Name="argument23" Type="InArgument(x:String)" />
+    <x:Property Name="argument24" Type="InArgument(x:String)" />
+    <x:Property Name="argument25" Type="InArgument(x:String)" />
+    <x:Property Name="argument26" Type="InArgument(x:String)" />
+    <x:Property Name="argument27" Type="InArgument(x:String)" />
+    <x:Property Name="argument28" Type="InArgument(x:String)" />
+    <x:Property Name="argument29" Type="InArgument(x:String)" />
+    <x:Property Name="argument30" Type="InArgument(x:String)" />
   </x:Members>
   <VisualBasic.Settings>
     <x:Null />
