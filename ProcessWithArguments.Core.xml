@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProcessWithArguments.Core</name>
+    </assembly>
+    <members>
+        <member name="M:ProcessWithArguments.WorkflowRunnerService.Main(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,ProcessWithArguments.Data.MailboxSettings,System.Boolean,System.String,System.String,UiPath.Pipelines.Activities.CustomTypes.OrchestratorTenant,UiPath.Pipelines.Activities.CustomTypes.OrchestratorFolder)">
+            <summary>
+            Invokes the Main.xaml
+            </summary>
+        </member>
+    </members>
+</doc>
